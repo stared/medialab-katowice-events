@@ -1,4 +1,6 @@
 .DS_Store
 .ipynb_checkpoints/
 *.csv
+jan2017/data/
+mysql_credentials.json
 
